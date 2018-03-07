@@ -1,0 +1,58 @@
+
+
+body{
+	font-family: 'lato', condensed;
+}
+img{
+	width: 250px;
+	height: 250px;
+	margin: 5px 50px;
+}
+/*menu*/
+ul{
+	list-style: none;
+	position: fixed;
+	right: 0;
+}
+li{
+	background-color: orange;
+	float: left;
+	color: black;
+	margin: 5px;
+	padding: 5px;
+}
+.centrar{
+	display: block;
+	margin: auto;
+}
+h1{
+	text-align: center;
+}
+.menu{
+	align-content: center;
+}
+.texto{
+	display: inline-block;
+	width: 20%;
+	margin:40px;
+}
+.texto1{
+	display: inline-block;
+	width: 48%;
+	margin:40px;
+	margin-top: 0px;
+	}
+
+.footer{
+	text-align: right;
+	padding: 10px;
+	margin-bottom: 40px;
+	background-color: orange;
+	color: bla;
+	
+}
+.adriana{
+	font-family: 'roboto', cursive, ;
+	font-size: 8pt;
+	color: white;
+}
